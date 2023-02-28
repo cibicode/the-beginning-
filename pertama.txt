@@ -1,5 +1,5 @@
-Pertama
-Pada mulanya
-Maka dilanjutkan
-Untuk proses berikutnya
+Hello World
+Mari kita coba
+Untuk memulai clone
+Bertanya kepada teman yang ahli
 Mari kita mulai
